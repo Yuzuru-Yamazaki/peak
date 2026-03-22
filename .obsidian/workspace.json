@@ -53,17 +53,14 @@
             "id": "03f48e50572d986e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "z.canvas",
-                "viewState": {
-                  "x": 227.84999999999994,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "g10/Mathematics/unit 4/application of trigonometric functions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "z"
+              "icon": "lucide-file",
+              "title": "application of trigonometric functions"
             }
           }
         ],
@@ -202,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z.canvas",
+                "file": "Pasted image 20260322085158.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of z"
+              "title": "Outline of Pasted image 20260322085158"
             }
           },
           {
@@ -251,47 +248,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03f48e50572d986e",
+  "active": "f6eef13f115ea617",
   "lastOpenFiles": [
+    "tmp/tmp1.md",
+    "g10/Mathematics/unit 4/application of trigonometric functions.md",
+    "g10/Mathematics/unit 4/trigonometric equations.md",
+    "g10/Mathematics/unit 4/half angle identities.md",
+    "g10/Mathematics/unit 4/double angle identites.md",
+    "g10/Mathematics/unit 4/addition and subtraction of trigonometric idetities.md",
+    "g10/Mathematics/unit 4/trigonometric identities.md",
+    "g10/Mathematics/unit 4/the graph of trigonometric functions.md",
+    "g10/Mathematics/unit 4",
+    "g10/Mathematics/unit 4/co terminal angle.md",
+    "g10/Mathematics/unit 4/Reference angle.md",
+    "g10/Mathematics/unit 4/Trigonometric values of angles.md",
+    "g10/Mathematics/unit 4/The unit circles.md",
+    "g10/Mathematics/unit 4/basic trig functions.md",
+    "g10/Mathematics/unit 4/relationship between degree and radian.md",
+    "g10/Mathematics/unit 4/Angles in standard position.md",
+    "g10/Mathematics/practice questions/Practice questions on solving exponentials and logarithms.md",
+    "g10/Mathematics/practice questions",
+    "g10/Mathematics/unit 4/Trigonometric Function.md",
+    "Pasted image 20260322085158.png",
+    "g10/Economics/Practice Questions",
+    "z.canvas",
     "Exam Vault/Master_Battle_Plan.md",
     "misc/ocr prompt for 2.5 flash.md",
     "misc/project bereket melkamu.md",
     "misc/subject code matter.md",
     "g10/Economics/Roles and functions of banks in Ethiopia.md",
-    "Pasted image 20260322085158.png",
-    "z.canvas",
     "g10/Biology/Digestion.canvas",
     "misc",
     "g10/Economics/Indigenous Financial Institutions.md",
     "tmp/tmp0.md",
     "g10/Economics/Electronic Banking.md",
     "g10/Economics/Micro finance institutions.md",
-    "g10/Economics/History of Banking in Ethiopia.md",
-    "g10/Economics/Historical development of banks in Ethiopia.md",
-    "g10/Economics/Introduction to financial institution.md",
-    "g10/Economics/Introduction to financial markets.md",
-    "g10/Economics/Introduction to financial intermediaries.md",
-    "g10/Biology/Practice Questions/BIO-U5 - Digestion in the Large Intestine Practice Question.md",
-    "g10/Biology/BIO-U5 - Digestion in the Large Intestine.md",
-    "g10/Biology/Practice Questions/BIO-U5 - Digestion in the Small Intestine Practice Questions.md",
-    "g10/Biology/Practice Questions/BIO-U5 - Digestion in the Stomach Practice Questions.md",
-    "g10/Biology/BIO-U5 - Digestion in the Small Intestine.md",
-    "g10/Biology/BIO-U5 - Digestion in the Mouth.md",
-    "g10/Biology/BIO-U5 - The Composition of Gastric Juice.md",
-    "g10/Biology/BIO-U5 - Digestion in the Stomach.md",
-    "g10/Biology/Practice Questions/BIO-U5 - The Composition of Gastric Juice Practice Questions.md",
-    "g10/Biology/Practice Questions/BIO-U5 - Digestion in the Esophagus Practice Questions.md",
-    "g10/Biology/BIO-U5 - Digestion in the Esophagus.md",
-    "g10/Biology/BIO-U5 - The Digestive system.md",
     "g10/Biology/Practice Questions",
     "tmp",
     "Pasted image 20260317194200.png",
     "g10/ICT",
     "g10/HPE",
     "g10/Economics",
-    "g10/Citizenship",
-    "g10/Amharic",
-    "g10/English",
-    "g10/AfanOro"
+    "g10/Citizenship"
   ]
 }

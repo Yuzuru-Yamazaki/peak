@@ -53,14 +53,17 @@
             "id": "03f48e50572d986e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Exam Vault/Master_Battle_Plan.md",
-                "mode": "source",
-                "source": false
+                "file": "z.canvas",
+                "viewState": {
+                  "x": 227.84999999999994,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Master_Battle_Plan"
+              "icon": "lucide-layout-dashboard",
+              "title": "z"
             }
           }
         ],
@@ -199,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exam Vault/Master_Battle_Plan.md",
+                "file": "z.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Master_Battle_Plan"
+              "title": "Outline of z"
             }
           },
           {
@@ -248,8 +251,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6eef13f115ea617",
+  "active": "03f48e50572d986e",
   "lastOpenFiles": [
+    "Exam Vault/Master_Battle_Plan.md",
     "misc/ocr prompt for 2.5 flash.md",
     "misc/project bereket melkamu.md",
     "misc/subject code matter.md",
@@ -267,7 +271,6 @@
     "g10/Economics/Introduction to financial institution.md",
     "g10/Economics/Introduction to financial markets.md",
     "g10/Economics/Introduction to financial intermediaries.md",
-    "Exam Vault/Master_Battle_Plan.md",
     "g10/Biology/Practice Questions/BIO-U5 - Digestion in the Large Intestine Practice Question.md",
     "g10/Biology/BIO-U5 - Digestion in the Large Intestine.md",
     "g10/Biology/Practice Questions/BIO-U5 - Digestion in the Small Intestine Practice Questions.md",

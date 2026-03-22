@@ -1,4 +1,9 @@
 {
-	"nodes":[],
-	"edges":[]
+	"nodes":[
+		{"id":"5dd84e5b68624ef0","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"boob man "},
+		{"id":"f7720474c8119bca","x":360,"y":-30,"width":250,"height":60,"type":"text","text":"ass man"}
+	],
+	"edges":[
+		{"id":"969475a2d1b1430c","fromNode":"5dd84e5b68624ef0","fromSide":"right","toNode":"f7720474c8119bca","toSide":"left","label":"the warudo"}
+	]
 }

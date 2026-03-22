@@ -1,4 +1,5 @@
 ## Double angle identities
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SE5SBTgrwH8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Formulas expressing trigonometric functions of an angle $2\theta$ in terms of an angle $\theta$:
 $\sin2\theta = 2\sin\theta \cos\theta$

@@ -1,5 +1,7 @@
 ## Graphs of the sine, cosine and tangent functions
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bm8oYKKlCXI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 To sketch the trigonometry graphs of the functions of sine, cosine and tangent, we need to know the period, phase, and amplitude, maximum and minimum turning points. The graphical representation of sine, cosine and tangent functions are explained here briefly. Students can learn how to graph a trigonometric function here along with activities based on it.
 
 Sine, cosine and tangent are the three important trigonometric ratios based on which functions are defined. In these trigonometry graphs, we use x-axis for values of the angles in radians and the y-axis values of the function at each given angle.

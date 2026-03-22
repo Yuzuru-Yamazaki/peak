@@ -1,5 +1,7 @@
 ## Addition and subtraction of identities
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sU2pyMR8GZ4?start=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 The formulas for the addition and subtraction theorems of sine and cosine are expressed as in the following:
 $\sin(\alpha + \beta) = \sin\alpha \cos\beta + \cos\alpha \sin\beta$
 $\sin(\alpha - \beta) = \sin\alpha \cos\beta - \cos\alpha \sin\beta$

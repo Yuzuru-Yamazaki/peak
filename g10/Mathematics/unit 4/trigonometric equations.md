@@ -1,4 +1,5 @@
 ## Trigonometric equations
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VMAMARmmDac" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Trigonometric equations can be solved using the algebraic methods, trigonometric identities and values.
 

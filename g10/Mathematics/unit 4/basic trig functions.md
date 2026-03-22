@@ -1,4 +1,5 @@
 ## 4.2 Basic Trigonometric Functions
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dUkCgTOOpQ0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 In grade 9, we studied trigonometric ratios for acute angles as the ratio of sides of a right-angled triangle. We will now extend the definition of trigonometric ratios to any angle in terms of radian measure and study them as trigonometric functions.
 

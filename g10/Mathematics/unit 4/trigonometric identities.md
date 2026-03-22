@@ -1,5 +1,7 @@
 ## 4.3 Trigonometric Identities and Equations
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sU2pyMR8GZ4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 By considering a right-angled triangle, the trigonometric identities or equations are formed using trigonometry ratios for all the angles. Using trigonometry identities, we can express each trigonometric ratio in terms of other trigonometric ratios. If any of the trigonometry ratio value is known to us, then we can find the values of other trigonometric ratios. We can also solve trigonometric identities, using these identities as well.
 
 ### Trigonometric Identities

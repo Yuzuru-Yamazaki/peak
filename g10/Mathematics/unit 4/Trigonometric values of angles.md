@@ -1,4 +1,5 @@
 ## 4.2.2 Trigonometric values of angles
+<iframe width="560" height="315" src="https://www.youtube.com/embed/57VrEiEPD1I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Trigonometry angles are the angles given by the ratios of the trigonometric functions. Trigonometry deals with the study of the relationship between angles and the sides of a triangle. The angle value ranges from $0^\circ$ to $360^\circ$. The important angles in trigonometry are $0^\circ, 30^\circ, 45^\circ, 60^\circ, 90^\circ, 180^\circ, 270^\circ$ and $360^\circ$. And the important six trigonometric ratios or functions are sine, cosine, tangent, cosecant, secant and cotangent.
 

@@ -1,4 +1,5 @@
 ## Half angle identities
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9YI69okba3c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 The half-angle identities for the sine and cosine are derived from two of the cosine identities described earlier.
 From $\cos2\theta = 2\cos^2\theta - 1$, let $\theta = \frac{\alpha}{2}$, then $\cos\alpha = 2\cos^2\left(\frac{\alpha}{2}\right) - 1$.

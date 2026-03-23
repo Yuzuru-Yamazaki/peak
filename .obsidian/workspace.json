@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "g10/Mathematics/unit 4/application of trigonometric functions.md",
+                "file": "g10/History/unit 5/5.6 The Collapse of the Soviet Union.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "application of trigonometric functions"
+              "title": "5.6 The Collapse of the Soviet Union"
             }
           }
         ],
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20260322085158.png",
+                "file": "g10/History/unit 5/5.6 The Collapse of the Soviet Union.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20260322085158"
+              "title": "Outline of 5.6 The Collapse of the Soviet Union"
             }
           },
           {
@@ -233,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,47 +248,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03f48e50572d986e",
+  "active": "f6eef13f115ea617",
   "lastOpenFiles": [
-    "g10/Mathematics/unit 4/trigonometric equations.md",
-    "g10/Mathematics/unit 4/half angle identities.md",
-    "g10/Mathematics/unit 4/double angle identites.md",
-    "g10/Mathematics/unit 4/addition and subtraction of trigonometric idetities.md",
-    "g10/Mathematics/unit 4/trigonometric identities.md",
-    "g10/Mathematics/unit 4/basic trig functions.md",
-    "g10/Mathematics/unit 4/the graph of trigonometric functions.md",
-    "g10/Mathematics/unit 4/Trigonometric values of angles.md",
-    "g10/Mathematics/unit 4/The unit circles.md",
-    "g10/Mathematics/unit 4/relationship between degree and radian.md",
-    "g10/Mathematics/unit 4/co terminal angle.md",
-    "g10/Mathematics/unit 4/Angles in standard position.md",
-    "g10/Mathematics/unit 4/application of trigonometric functions.md",
-    "tmp/tmp1.md",
+    "tmp/tmp2.md",
+    "g10/History/unit 5/5.6 The Collapse of the Soviet Union.md",
+    "g10/History/unit 5/5.5 The Arab-Israeli Conflict.md",
+    "g10/History/unit 5/5.4. Non-Aligned Movement (NAM).md",
+    "g10/History/unit 5/5.3 Situations in Asia During the Cold War Japan, Korea, China, Vietnam.md",
+    "g10/History/unit 5/5.2 The Rise of the Superpowers and the Beginning of the Cold War.md",
+    "g10/History/unit 5/5.1 The United Nations Organization Formation, Mission, Principles and Achievements.md",
+    "g10/Economics/ECON-U5 - Roles and functions of banks in Ethiopia.md",
+    "g10/History/unit 5",
+    "g10/Economics/ECON-U5 - Micro finance institutions.md",
+    "g10/Economics/ECON-U5 - Introduction to financial markets.md",
+    "g10/Economics/ECON-U5 - Introduction to financial intermediaries.md",
+    "g10/Economics/ECON-U5 - Introduction to financial institution.md",
+    "g10/Economics/ECON-U5 - Indigenous Financial Institutions.md",
+    "g10/Economics/ECON-U5 - History of Banking in Ethiopia.md",
+    "g10/Economics/ECON-U5 - Historical development of banks in Ethiopia.md",
+    "g10/Economics/ECON-U5 - Electronic Banking.md",
+    "misc/subject code matter.md",
+    "g10/Mathematics/unit 4/MATH-U4 - Trigonometric values of angles.md",
+    "g10/Mathematics/unit 4/MATH-U4 - trigonometric identities.md",
+    "g10/Mathematics/unit 4/MATH-U4 - Trigonometric Function.md",
+    "g10/Mathematics/unit 4/MATH-U4 - trigonometric equations.md",
+    "g10/Mathematics/unit 4/MATH-U4 - The unit circles.md",
+    "g10/Mathematics/unit 4/MATH-U4 - the graph of trigonometric functions.md",
+    "g10/Mathematics/unit 4/MATH-U4 - relationship between degree and radian.md",
+    "g10/Mathematics/unit 4/MATH-U4 - Reference angle.md",
+    "g10/Mathematics/unit 4/MATH-U4 - half angle identities.md",
     "g10/Mathematics/unit 4",
-    "g10/Mathematics/unit 4/Reference angle.md",
-    "g10/Mathematics/practice questions/Practice questions on solving exponentials and logarithms.md",
     "g10/Mathematics/practice questions",
-    "g10/Mathematics/unit 4/Trigonometric Function.md",
     "Pasted image 20260322085158.png",
     "g10/Economics/Practice Questions",
     "z.canvas",
-    "Exam Vault/Master_Battle_Plan.md",
-    "misc/ocr prompt for 2.5 flash.md",
-    "misc/project bereket melkamu.md",
-    "misc/subject code matter.md",
-    "g10/Economics/Roles and functions of banks in Ethiopia.md",
     "g10/Biology/Digestion.canvas",
     "misc",
-    "g10/Economics/Indigenous Financial Institutions.md",
-    "tmp/tmp0.md",
-    "g10/Economics/Electronic Banking.md",
-    "g10/Economics/Micro finance institutions.md",
     "g10/Biology/Practice Questions",
     "tmp",
     "Pasted image 20260317194200.png",
     "g10/ICT",
     "g10/HPE",
-    "g10/Economics",
-    "g10/Citizenship"
+    "g10/Economics"
   ]
 }
